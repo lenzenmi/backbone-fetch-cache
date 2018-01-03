@@ -1,0 +1,32 @@
+{
+  "name": "backbone-fetch-cache",
+  "homepage": "https://github.com/lenzenmi/backbone-fetch-cache",
+  "version": "1.2.0",
+  "_release": "1.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.2.0",
+    "commit": "6c4864d9fd9f24c26e6b8db903b9c8128921d87d"
+  },
+  "_source": "https://github.com/madglory/backbone-fetch-cache.git",
+  "_target": "1.2.0",
+  "_originalSource": "backbone-fetch-cache",
+  "authors": [
+    "madglory"
+  ],
+  "description": "",
+  "main": "backbone.fetch-cache.js",
+  "keywords": [
+    "backbone",
+    "fetch",
+    "cache"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
