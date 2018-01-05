@@ -1,5 +1,28 @@
 # Backbone fetch cache
 
+## Important Note
+This repository was created as an emergency response after the original creator deleted this project from github breaking any builds referencing it through bower.
+
+The original bower project `backbone-fetch-cache` remains broken.
+
+The bower project referencing this repository is `backbone-fetch-cache-bower`.
+
+It is not being maintained.
+
+I will not be releasing packages to npm.
+
+### Versions
+I will add additional versions to this repository and tag them appropriately as requested. You will need to provide me with the original source code for the version you are requesting.
+
+Please open an Issue if you need a new tagged release.
+
+Available versions included in this repository:
+
+* v1.2.0
+
+---
+**Original Readme**
+
 [![Build Status](https://travis-ci.org/mrappleton/backbone-fetch-cache.png?branch=master)](https://travis-ci.org/mrappleton/backbone-fetch-cache)
 
 A Backbone plugin to cache calls to `Backbone.Model.prototype.fetch` and
